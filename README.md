@@ -12,13 +12,13 @@ Modern electric power systems have witnessed rapidly increasing penetration of r
 * the instances used in the numerical experiments
 
 ### Folder directory
-#### Solver
-* the C++ MPI codes programmed for the NCD algorithm
-#### Instances
-* the data for a tested 6-bus power system and corresponding numerical results 
-* the data for a modified IEEE 118-bus pow system and corresponding numerical results 
-#### Results
-* More numerical results for all the test instances on the IEEE 118-bus system
+* Solver
+  - the C++ MPI codes programmed for the NCD algorithm
+* Instances
+  - the data for a tested 6-bus power system and corresponding numerical results 
+  - the data for a modified IEEE 118-bus pow system and corresponding numerical results 
+* Results
+  - More numerical results for all the test instances on the IEEE 118-bus system
 
 ### To compile
 One can use CmakeLists.txt, Makefile or the solution file contained in the "Solver" folder to compile the program. 
