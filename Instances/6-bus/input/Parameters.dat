@@ -1,0 +1,15 @@
+Parameter		Value
+------------	-----
+Periods		    3
+Outcomes	    2
+DmdScns		20
+TimeLimit		10000
+SmpTimeLimit	300
+SpTimeLimit		100
+MpGapTol		0.01
+SmpGapTol		1e-4
+MaxSmpGap		0.05
+SpGapTol		1e-4
+KeepBendersCuts		0
+
+END

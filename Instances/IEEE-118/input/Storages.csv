@@ -1,0 +1,12 @@
+*** Unit specific data,10,within,118,bus system,
+Unit ID,Unit Name,Unit Location,Existing or Potential [E/P],Cap(MW),VariableCost
+0,stg0,9,P,20,400
+1,stg1,23,P,20,400
+2,stg2,31,P,20,400
+3,stg3,45,P,20,400
+4,stg5,58,P,20,400
+5,stg6,68,P,20,400
+6,stg9,76,P,20,400
+7,stg10,90,P,20,400
+8,stg10,104,P,20,400
+9,stg10,111,P,20,400

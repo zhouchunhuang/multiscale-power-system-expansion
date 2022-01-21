@@ -1,0 +1,9 @@
+*** Transmission related data,7,within,6,bus system,,,,,,,
+Origin ID,Origin (Substation) Name,Destination ID,Destination (Substation) Name,Existing or Potential (E/P),Fixed Cost [K$],Capital Cost [K$/MW],Capacity [MW],Voltage Level [KV],Susceptance,VariableCost,Length(miles)
+0,xxx,1,xxx,E,0,0,200,500,1,57,10
+1,xxx,2,xxx,P,0,0,200,500,1,57,100
+0,xxx,3,xxx,E,0,0,200,500,1,57,10
+1,xxx,3,xxx,E,0,0,200,500,1,57,10
+3,xxx,4,xxx,P,0,0,200,500,1,57,10
+4,xxx,5,xxx,E,0,0,200,500,1,57,10
+2,xxx,5,xxx,P,0,0,200,500,1,57,100
